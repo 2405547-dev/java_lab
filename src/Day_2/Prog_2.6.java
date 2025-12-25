@@ -8,10 +8,11 @@ class Diff{
         System.out.println("Diff:"+s);
     }
 }
-public class Subtract{
+public class Prog_2.6{
     public static void main(String[] args){
         Diff d=new Diff();
         d.Sub(8,3);
         d.Sub(9,4,2);
     }
+
 }
