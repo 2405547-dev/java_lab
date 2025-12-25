@@ -22,7 +22,7 @@ class Grade {
             System.out.println("Grade: F");
     }
 }
-public class StuGrade{
+public class Prog_1.2{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -33,3 +33,4 @@ public class StuGrade{
         grade1.printGrade();
     }
 }
+
