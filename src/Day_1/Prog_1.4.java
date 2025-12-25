@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-class Palindromeno {
+class Palindrome{
     int number;
-    Palindromeno(int number) {
+    Palindrome(int number) {
         this.number = number;
     }
     boolean isPalindrome() {
@@ -19,14 +19,14 @@ class Palindromeno {
     }
 }
 
-public class Palindrome {
+public class Prog_1.4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter a number: ");
         int num = sc.nextInt();
 
-        Palindromeno p = new Palindromeno(num);
+        Palindrome p = new Palindrome(num);
 
         if (p.isPalindrome()) {
             System.out.println(num + " is a Palindrome Number");
@@ -35,4 +35,5 @@ public class Palindrome {
         }
     }
 }
+
 
