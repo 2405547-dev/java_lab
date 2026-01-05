@@ -16,10 +16,8 @@ class Grade {
             System.out.println("Grade: A");
         else if (mark >= 60)
             System.out.println("Grade: B");
-        else if (mark >= 50)
-            System.out.println("Grade: C");
         else
-            System.out.println("Grade: F");
+            System.out.println("Grade: C");
     }
 }
 public class Prog_1.2{
@@ -33,4 +31,5 @@ public class Prog_1.2{
         grade1.printGrade();
     }
 }
+
 
