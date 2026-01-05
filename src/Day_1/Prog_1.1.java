@@ -12,7 +12,7 @@ class Student{
     }
 }
 
-public class Prog_1.1 {
+public class Prog_1_1 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter Name: ");
