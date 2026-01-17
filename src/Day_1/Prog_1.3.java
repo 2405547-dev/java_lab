@@ -18,7 +18,7 @@ class DayNo {
         }
     }
 }
-public class Prog_1.3{
+public class Prog_1_3{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter day number:");
@@ -27,4 +27,5 @@ public class Prog_1.3{
         week1.printWeekDay();
     }
 }
+
 
