@@ -11,7 +11,7 @@ class Name {
         System.out.println(secondname+ " " + firstname);
     }
 }
-public class Prog_1.5 {
+public class Prog_1_5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter first name: ");
@@ -22,5 +22,6 @@ public class Prog_1.5 {
         name1.printLastFirst();
     }
 }
+
 
 
