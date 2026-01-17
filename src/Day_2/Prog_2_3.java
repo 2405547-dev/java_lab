@@ -14,7 +14,7 @@ class Box{
     }
 }
 
-class Prog_2.3{
+class Prog_2_3{
     public static void main(String[] args) {
         float l;
         float w;
@@ -30,4 +30,5 @@ class Prog_2.3{
         System.out.print("Volume is:" +box1.Volume(l,w,h));
     }
 }
+
 
