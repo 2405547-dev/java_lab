@@ -5,7 +5,7 @@ class Objectcount{
         count++;
     }
 }
-class Prog_2.2{
+class Prog_2_2{
     public static void main(String[] args){
         Scanner scanner=new Scanner(System.in);
         System.out.print("Enter no of objects to create:");
@@ -17,3 +17,4 @@ class Prog_2.2{
     }
 
 }
+
