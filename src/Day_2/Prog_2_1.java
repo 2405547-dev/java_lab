@@ -11,7 +11,7 @@ class Counter {
         }
     }
 }
-public class Prog_2.1 {
+public class Prog_2_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] numbers = new int[10];
@@ -25,4 +25,5 @@ public class Prog_2.1 {
         System.out.println("Odd numbers: " + counter.oddcount);
     }
 }
+
 
