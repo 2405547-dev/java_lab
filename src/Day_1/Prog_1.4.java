@@ -19,7 +19,7 @@ class Palindrome{
     }
 }
 
-public class Prog_1.4 {
+public class Prog_1_4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -35,5 +35,6 @@ public class Prog_1.4 {
         }
     }
 }
+
 
 
