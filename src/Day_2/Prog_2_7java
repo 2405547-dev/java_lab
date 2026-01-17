@@ -23,7 +23,7 @@ class Rect {
     }
 }
 
-public class Prog_2.7{
+public class Prog_2_7{
     public static void main(String[] args) {
         Rect r1 = new Rect();
         Rect r2 = new Rect(5, 3);
@@ -33,4 +33,5 @@ public class Prog_2.7{
         r3.displayArea();
     }
 }
+
 
