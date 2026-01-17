@@ -8,7 +8,7 @@ class Diff{
         System.out.println("Diff:"+s);
     }
 }
-public class Prog_2.6{
+public class Prog_2_6{
     public static void main(String[] args){
         Diff d=new Diff();
         d.Sub(8,3);
@@ -16,3 +16,4 @@ public class Prog_2.6{
     }
 
 }
+
