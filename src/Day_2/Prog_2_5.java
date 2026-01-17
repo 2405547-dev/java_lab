@@ -16,7 +16,7 @@ class Student5 {
     }
 }
 
-public class Prog_2.5 {
+public class Prog_2_5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -58,4 +58,5 @@ public class Prog_2.5 {
         sc.close();
     }
 }
+
 
