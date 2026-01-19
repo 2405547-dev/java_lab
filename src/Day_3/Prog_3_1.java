@@ -23,7 +23,7 @@ class ThreeD extends TwoD{
         return length*breadth*height*cubic;
     }
 }
-class Prog_3.1 {
+class Prog_3_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter length:");
