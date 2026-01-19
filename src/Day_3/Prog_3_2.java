@@ -27,7 +27,7 @@ class Woodbox extends Box{
         System.out.println("Thick:"+ thick);
     }
 }
-class Prog_3.2{
+class Prog_3_2{
     public static void main(String[] args){
         Scanner scanner=new Scanner(System.in);
         System.out.print("Enter length:");
